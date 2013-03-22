@@ -7,7 +7,7 @@ Inspired by the sensiolabs/ansi-to-html release, I wanted to create a quick Twig
 Add the requirement to your composer.json (it should fetch ansi-to-html automatically):
 
     {
-      "requires": {
+      "require": {
         "beryllium/twig-ansi-extension": "dev-master"
       }
     }
