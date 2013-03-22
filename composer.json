@@ -1,0 +1,17 @@
+{
+    "name": "beryllium/twig-ansi-extension",
+    "description": "A twig extension for sensiolabs/ansi-to-html",
+    "license": "MIT",
+    "keywords": ["ansi","twig","extension"],
+    "require": {
+        "sensiolabs/ansi-to-html": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Kevin Boyd",
+            "email": "kevin.boyd@gmail.com",
+            "homepage": "http://www.beryllium.ca/"
+        }
+    ],
+    "minimum-stability": "dev"
+}
