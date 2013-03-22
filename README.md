@@ -33,7 +33,7 @@ Optional "themed" usage:
 And now you can use it inside twig, like so:
 
 ```jinja
-    {{ 'my_ansi_string'|ansi_raw }}
+    {{ 'my_ansi_string'|ansi|raw }}
 ```
 
 If you opted to add the theme, you should be able to output the style CSS like so:
