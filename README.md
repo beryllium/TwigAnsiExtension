@@ -44,4 +44,4 @@ If you opted to add the theme, you should be able to output the style CSS like s
 
 ### Current Status
 
-At the moment this is just a quick prototype, I haven't even tested the theme support. In my local environemnt, I'm using the "colordiff" system utility to generate sample ANSI output. Other examples of ANSI output include PHPUnit with colors enabled, and especially PHPUnit results with [NyanCat](https://github.com/whatthejeff/nyancat-phpunit-resultprinter) output enabled (although I don't think streaming would work).
+At the moment this is just a quick prototype, I haven't even tested the theme support. In my local environment, I'm using the "colordiff" system utility to generate sample ANSI output. Other examples of ANSI output include PHPUnit with colors enabled, and especially PHPUnit results with [NyanCat](https://github.com/whatthejeff/nyancat-phpunit-resultprinter) output enabled (although I don't think streaming would work).
