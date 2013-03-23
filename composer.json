@@ -14,10 +14,14 @@
             "homepage": "http://www.beryllium.ca/"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
             "Beryllium\\TwigAnsiExtension\\": ""
         }
+    },
+    "extra": {
+      "branch-alias": {
+        "dev-master": "1.0-dev"
+      }
     }
 }
